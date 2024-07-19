@@ -94,7 +94,7 @@ project-folder-creator/
 For questions or feedback, feel free to contact me:
 
 - GitHub: [Nada-TB](https://github.com/Nada-TB)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+
 
 ## License
 
@@ -102,4 +102,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README is now structured according to your provided template. If you have more projects or need further assistance, feel free to ask!
